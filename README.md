@@ -38,6 +38,7 @@
 
 - Snakemake catalog: https://snakemake.github.io/snakemake-workflow-catalog/
 - nf-core: https://nf-co.re/pipelines
+- snakePipes: https://snakepipes.readthedocs.io/en/latest/
 
 ## Tutorials
 
