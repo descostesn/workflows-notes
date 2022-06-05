@@ -45,3 +45,19 @@
 - Introduction to Nextflow: https://sateeshperi.github.io/nextflow_varcal/nextflow/
 - Introduction to snakemake: https://hackmd.io/7k6JKE07Q4aCgyNmKQJ8Iw?view
 - Comparision of Bioinformatics workflows: https://github.com/GoekeLab/bioinformatics-workflows
+
+## Why using a workflow manager?
+
+- input data description
+- parameters for each individual tool
+- tool versioning tracking
+- generate execution reports with detailed information
+- Provide the execution environment (conda environment, singularities, dockers)
+- the software version of the workflow manager (which can also be provided in a container)
+- resource usage information (amount of memory, execution time, number of CPUs)
+- Automatic visualization of the pipeline steps
+- the workflow itself can be publicly archived and made citable by obtaining a version-specific digital object identifier (DOI) through Zenodo
+- Scalability: Adapt processing to the size of the data and the resources available
+- Re-entrancy: "Workflow managers can handle such events by enabling re-entrancy. Re-entrancy allows users to run a pipeline from its last successfully executed step, rather than from the beginning, in the case of a disruption."
+
+        
