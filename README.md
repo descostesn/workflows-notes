@@ -19,6 +19,7 @@
 - Gpcr-modsim: http://gpcr-modsim.org/
 - Cloudgene: http://www.cloudgene.io/
 - Seven Bridges: https://www.sevenbridges.com/platform/
+- Nextflow Tower: https://cloud.tower.nf/
 
 ## Workflow engines for Bioinformatics
 
