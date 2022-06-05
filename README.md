@@ -34,11 +34,12 @@
 - GenPipes: https://genpipes.readthedocs.io/en/latest/about/index.html
 - BioWDL: https://biowdl.github.io/
 
-## Repository
+## Repositories
 
 - Snakemake catalog: https://snakemake.github.io/snakemake-workflow-catalog/
 - nf-core: https://nf-co.re/pipelines
 - snakePipes: https://snakepipes.readthedocs.io/en/latest/
+- List of engines not limited to Bioinformatics: https://github.com/pditommaso/awesome-pipeline
 
 ## Tutorials
 
