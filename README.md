@@ -30,6 +30,7 @@
 - Piper: https://github.com/johandahlberg/piper
 - Biojulia: https://biojulia.net/
 - SeqPig: https://github.com/HadoopGenomics/SeqPig
+- GenPipes: https://genpipes.readthedocs.io/en/latest/about/index.html
 
 ## Repository
 
