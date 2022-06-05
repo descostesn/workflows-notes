@@ -40,6 +40,7 @@
 - nf-core: https://nf-co.re/pipelines
 - snakePipes: https://snakepipes.readthedocs.io/en/latest/
 - List of engines not limited to Bioinformatics: https://github.com/pditommaso/awesome-pipeline
+- GATK repository: https://github.com/search?q=GATK+pipeline&type=Repositories
 
 ## Tutorials
 
