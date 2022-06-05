@@ -31,6 +31,7 @@
 - Biojulia: https://biojulia.net/
 - SeqPig: https://github.com/HadoopGenomics/SeqPig
 - GenPipes: https://genpipes.readthedocs.io/en/latest/about/index.html
+- BioWDL: https://biowdl.github.io/
 
 ## Repository
 
