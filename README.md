@@ -6,7 +6,7 @@
   * [A review of bioinformatic pipeline frameworks](https://academic.oup.com/bib/article/18/3/530/2562749)
   * [The nf-core framework for community-curated bioinformatics pipelines](https://www.nature.com/articles/s41587-020-0439-x)
   * [DolphinNext: a distributed data processing platform for high throughput genomics](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-6714-x)
-  
+  * [Reproducible, scalable, and shareable analysis pipelines with bioinformatics workflow managers](https://www.nature.com/articles/s41592-021-01254-9)
 
 ## User interface solutions to design workflows:
 
@@ -61,4 +61,10 @@
 - Scalability: Adapt processing to the size of the data and the resources available
 - Re-entrancy: "Workflow managers can handle such events by enabling re-entrancy. Re-entrancy allows users to run a pipeline from its last successfully executed step, rather than from the beginning, in the case of a disruption."
 
-        
+## Non-DSL engines
+
+"While graphical and DSL workflow managers are currently the most widely used frameworks for bioinformatics pipelines, there are some other types of workflow managers, such as programming-library-based tools. Programming-library-based workflow managers implement their pipeline management systems as a programming library for an existing, popular programming language." ([ref](https://www.nature.com/articles/s41592-021-01254-9))
+
+- sciPipe: https://scipipe.org/ (programming-library-based tools)
+- Luigi: https://github.com/spotify/luigi (programming-library-based tools)
+
