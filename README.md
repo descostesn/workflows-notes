@@ -68,3 +68,10 @@
 - sciPipe: https://scipipe.org/ (programming-library-based tools)
 - Luigi: https://github.com/spotify/luigi (programming-library-based tools)
 
+"Workflow specifications provide a set of formalized rules for defining computational pipelines. This allows the separation of the pipeline definition from the execution environment, thereby adding another layer of abstraction. Workflow specifications enable the definition of pipelines that can be executed across workflow managers or execution environments that support the standard" ([ref](https://www.nature.com/articles/s41592-021-01254-9))
+- CWL: https://www.commonwl.org/ (workflow specifications)
+- cwltool: https://github.com/common-workflow-language/cwltool (CWL executor)
+- CWL export by snakemake: https://snakemake.readthedocs.io/en/stable/executing/interoperability.html
+- WDL: https://openwdl.org/ (workflow specifications)
+- cromwell: https://github.com/broadinstitute/cromwell (WDL executor)
+        
