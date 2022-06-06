@@ -36,11 +36,18 @@
 
 ## Repositories
 
+### Workflows collection
+
 - Snakemake catalog: https://snakemake.github.io/snakemake-workflow-catalog/
 - nf-core: https://nf-co.re/pipelines
 - snakePipes: https://snakepipes.readthedocs.io/en/latest/
-- List of engines not limited to Bioinformatics: https://github.com/pditommaso/awesome-pipeline
 - GATK repository: https://github.com/search?q=GATK+pipeline&type=Repositories
+- Galaxy: https://usegalaxy.org/workflows/list_published and https://usegalaxy.eu/workflows/list_published
+ 
+### Others
+
+- List of engines not limited to Bioinformatics: https://github.com/pditommaso/awesome-pipeline
+- Comparision of Bioinformatics workflows: https://github.com/GoekeLab/bioinformatics-workflows
 
 ## Tutorials
 
