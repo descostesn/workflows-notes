@@ -43,6 +43,7 @@
 - snakePipes: https://snakepipes.readthedocs.io/en/latest/
 - GATK repository: https://github.com/search?q=GATK+pipeline&type=Repositories
 - Galaxy: https://usegalaxy.org/workflows/list_published and https://usegalaxy.eu/workflows/list_published
+- WARP (wdl): https://broadinstitute.github.io/warp/docs/get-started
  
 ### Others
 
