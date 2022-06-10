@@ -56,6 +56,7 @@
 - Introduction to Nextflow: https://sateeshperi.github.io/nextflow_varcal/nextflow/
 - Introduction to snakemake: https://hackmd.io/7k6JKE07Q4aCgyNmKQJ8Iw?view
 - Comparision of Bioinformatics workflows: https://github.com/GoekeLab/bioinformatics-workflows
+- Tips on using nf-core pipelines: https://u-bds.github.io/training_guides/nf_core_tips.html
 
 ## Why using a workflow manager?
 
