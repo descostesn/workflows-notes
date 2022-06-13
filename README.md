@@ -71,6 +71,7 @@
 - the workflow itself can be publicly archived and made citable by obtaining a version-specific digital object identifier (DOI) through Zenodo
 - Scalability: Adapt processing to the size of the data and the resources available
 - Re-entrancy: "Workflow managers can handle such events by enabling re-entrancy. Re-entrancy allows users to run a pipeline from its last successfully executed step, rather than from the beginning, in the case of a disruption."
+- incremental build
 
 ## Non-DSL engines
 
