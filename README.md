@@ -88,3 +88,11 @@
 - WDL: https://openwdl.org/ (workflow specifications)
 - cromwell: https://github.com/broadinstitute/cromwell (WDL executor)
         
+## Companies proposing workflow services
+
+- DNA Nexus (CWL - focus on medicine and drug discovery): www.dnanexus.com
+- Illumina (CWL - Nextflow)/ Illumina Connected Analytics (DRAGEN pipelines): https://www.illumina.com/products/by-type/informatics-products/connected-analytics.html
+- Illumina basespace: https://www.illumina.com/products/by-type/informatics-products/basespace-sequence-hub/apps.html
+- SevenBridges (CWL): https://www.sevenbridges.com/platform/
+
+- 
