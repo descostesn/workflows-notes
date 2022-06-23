@@ -94,5 +94,5 @@
 - Illumina (CWL - Nextflow)/ Illumina Connected Analytics (DRAGEN pipelines): https://www.illumina.com/products/by-type/informatics-products/connected-analytics.html
 - Illumina basespace: https://www.illumina.com/products/by-type/informatics-products/basespace-sequence-hub/apps.html
 - SevenBridges (CWL): https://www.sevenbridges.com/platform/
+- Strand: https://strandls.com/bioinformatics/
 
-- 
