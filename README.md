@@ -46,7 +46,8 @@
 - Galaxy: https://usegalaxy.org/workflows/list_published and https://usegalaxy.eu/workflows/list_published
 - WARP (wdl): https://broadinstitute.github.io/warp/docs/get-started
 - Intergalactic commission (peer-reviewed galaxy workflows): https://github.com/galaxyproject/iwc/
- 
+- MSKCC: https://github.com/mskcc/Innovation-IMPACT-Pipeline
+
 ### Others
 
 - List of engines not limited to Bioinformatics: https://github.com/pditommaso/awesome-pipeline
