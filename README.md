@@ -20,6 +20,7 @@
 - Cloudgene: http://www.cloudgene.io/
 - Seven Bridges: https://www.sevenbridges.com/platform/
 - Nextflow Tower: https://cloud.tower.nf/
+- Arvados: https://arvados.org/technology/
 
 ## Workflow engines for Bioinformatics
 
