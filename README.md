@@ -7,6 +7,7 @@
   * [The nf-core framework for community-curated bioinformatics pipelines](https://www.nature.com/articles/s41587-020-0439-x)
   * [DolphinNext: a distributed data processing platform for high throughput genomics](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-6714-x)
   * [Reproducible, scalable, and shareable analysis pipelines with bioinformatics workflow managers](https://www.nature.com/articles/s41592-021-01254-9)
+  * [FAIR Computational Workflows](https://direct.mit.edu/dint/article/2/1-2/108/10003/FAIR-Computational-Workflows)
 
 ## User interface solutions to design workflows:
 
