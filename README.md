@@ -49,6 +49,7 @@
 - WARP (wdl): https://broadinstitute.github.io/warp/docs/get-started
 - Intergalactic commission (peer-reviewed galaxy workflows): https://github.com/galaxyproject/iwc/
 - MSKCC: https://github.com/mskcc/Innovation-IMPACT-Pipeline
+- CRG workflows: https://github.com/biocorecrg
 
 ### Others
 
