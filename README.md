@@ -100,3 +100,6 @@
 - SevenBridges (CWL): https://www.sevenbridges.com/platform/
 - Strand: https://strandls.com/bioinformatics/
 
+## Videos
+
+- New journal for workflows: https://summit.nextflow.io/program/oct-13-new-pipeline-resources-for-reproducible-analysis/
