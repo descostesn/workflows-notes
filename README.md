@@ -55,6 +55,7 @@
 
 - List of engines not limited to Bioinformatics: https://github.com/pditommaso/awesome-pipeline
 - Comparision of Bioinformatics workflows: https://github.com/GoekeLab/bioinformatics-workflows
+- Predict tools in Galaxy workflows: https://github.com/anuprulez/similar_galaxy_workflow
 
 ## Tutorials
 
