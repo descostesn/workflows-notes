@@ -22,6 +22,7 @@
 - Seven Bridges: https://www.sevenbridges.com/platform/
 - Nextflow Tower: https://cloud.tower.nf/
 - Arvados: https://arvados.org/technology/
+- Sapporo: https://github.com/sapporo-wes/sapporo
 
 ## Workflow engines for Bioinformatics
 
